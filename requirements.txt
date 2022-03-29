@@ -1,2 +1,2 @@
 streamlit
-click=8
+click==8
